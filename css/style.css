@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-.row {
-}
-
 .row > div {
     background-color: lightseagreen;
     border: 1px solid #fff;
